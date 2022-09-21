@@ -22,3 +22,6 @@ plotly: https://plotly.com/r/
 
 ## Inteative dashboards
 shiny: https://shiny.rstudio.com/  
+
+## Figures for presentations
+BioRender: https://biorender.com/  
