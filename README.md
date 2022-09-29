@@ -26,6 +26,7 @@ plotly: https://plotly.com/r/
 
 ## Inteative dashboards
 shiny: https://shiny.rstudio.com/  
+GENESPACE: https://github.com/jtlovell/GENESPACE  
 
 ## Figures for presentations
 BioRender: https://biorender.com/  
