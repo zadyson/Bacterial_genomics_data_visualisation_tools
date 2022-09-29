@@ -29,3 +29,6 @@ shiny: https://shiny.rstudio.com/
 
 ## Figures for presentations
 BioRender: https://biorender.com/  
+
+## Data vis books
+Fundamentals of Data Visualization: https://clauswilke.com/dataviz/
