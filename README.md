@@ -17,6 +17,10 @@ genoPlotR: https://genoplotr.r-forge.r-project.org/
 ## Heatmaps
 pheatmap: https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12 
 
+## Distributions
+ggside: https://cran.r-project.org/web/packages/ggside/vignettes/ggside_basic_usage.html
+
+
 ## Interative plots
 plotly: https://plotly.com/r/   
 
