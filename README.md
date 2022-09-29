@@ -31,5 +31,6 @@ shiny: https://shiny.rstudio.com/
 BioRender: https://biorender.com/  
 
 ## Data vis & analysis books
+Data visualisations with R: https://rkabacoff.github.io/datavis/  
 Fundamentals of Data Visualization: https://clauswilke.com/dataviz/  
 Introduction to Data Science: https://rafalab.github.io/dsbook/  
